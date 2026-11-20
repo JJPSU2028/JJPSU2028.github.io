@@ -1,32 +1,12 @@
 body {
-	background-color:hotpink;
+	background-color: plum;
 }
 
 h1 {
-	color:purple;
+	font-family: Bell Gothic;
 }
 
-h2 {
-	color:purple;
+p {
+	font-family: Bell Gothic;
+	font-size: 20px;
 }
-
-h1 {
-  border-style: dotted;
-  border-color: purple;
-}
-
-* {
-  text-align: center;
-  color: black;
-}
-
-#para1 {
-  text-align: center;
-  color: white;
-}
-
-
-h1, h2 {
-   background: linear-gradient(to bottom, purple, hotpink);
-   color: transparent;
-   background-clip: text;
